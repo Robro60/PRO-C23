@@ -36,5 +36,7 @@ function draw() {
 
    //display Player and computerplayer
 
+   
+  
 
 }
